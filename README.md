@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **team-epk/team-epk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- 🔭 Teaching Assistant, DGMD E-12, "Introduction to Creative Exploration on the Web," Harvard University Extension School, Spring 2020-->
+- 💬 If you'd like to learn more about doing confusing things with technology and theater, you might want to check out [my thesis](https://dash.harvard.edu/handle/1/42004081).
+- 😄 Pronouns: he/him
