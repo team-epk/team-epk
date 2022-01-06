@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 🔭 Teaching Assistant, DGMD E-12, "Introduction to Creative Exploration on the Web," Harvard University Extension School, Spring 2020
 - 💬 If you'd like to learn more about doing confusing things with technology and theater, you might want to check out [my thesis](https://dash.harvard.edu/handle/1/42004081).
 - 😄 Pronouns: he/him
-- ⚡ A subsidiary of #teamgary.
+- ⚡ A subsidiary of #teamgary, home of the Team Gary Institute.
