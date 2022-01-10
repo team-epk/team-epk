@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 💬 If you'd like to learn more about doing confusing things with technology and theater, you might want to check out [my thesis](https://dash.harvard.edu/handle/1/42004081).
 - 😄 Pronouns: he/him
 - ⚡ A subsidiary of #teamgary, home of the Team Gary Institute.
+  
+  <img width="250" alt="teamGaryBC" src="https://user-images.githubusercontent.com/25535766/148713997-d950f01d-5d29-42ea-a111-bdc63e4e547c.png">
